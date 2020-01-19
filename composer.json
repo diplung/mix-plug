@@ -1,0 +1,25 @@
+{
+    "name": "diplung/mix-plug",
+    "description": "A small footprint for date converter and date list in select option",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vijay Rai",
+            "email": "bj.thulungrai@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "diplung\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "provider": [
+                "lung\\Mixplug\\MixPlugServiceProvider" 
+            ]
+        }
+    }
+}
