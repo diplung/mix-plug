@@ -18,8 +18,11 @@
     "extra": {
         "laravel": {
             "provider": [
-                "lung\\Mixplug\\MixPlugServiceProvider" 
-            ]
+                "diplung\\Mixplug\\MixPlugServiceProvider" 
+            ],
+        "aliases": {
+          "Mixplug": "diplung\\Mixplug\\MixPlugServiceProvider"
+        }
         }
     }
 }
