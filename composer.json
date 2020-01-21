@@ -21,7 +21,7 @@
                 "diplung\\Mixplug\\MixPlugServiceProvider" 
             ],
         "aliases": {
-          "Mixplug": "diplung\\Mixplug\\MixPlugServiceProvider"
+          "Mixplug": "diplung\\Mixplug\\MixPlugFacade"
         }
         }
     }
