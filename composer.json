@@ -22,7 +22,7 @@
             ],
         "aliases": {
           "Mixplug": "diplung\\Mixplug\\MixPlugFacade"
-        }
+            }
         }
     }
 }
