@@ -1,6 +1,6 @@
 <?php
 
-namespace lung\MixPlug;
+namespace diplung\MixPlug;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
