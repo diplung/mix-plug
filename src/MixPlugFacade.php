@@ -1,6 +1,6 @@
 <?php
 
-namespace lung\MixPlug;
+namespace diplung\MixPlug;
 
 use Illuminate\Support\Facades\Facade;
 

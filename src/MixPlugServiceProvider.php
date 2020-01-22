@@ -1,6 +1,6 @@
 <?php
 
-namespace lung\MixPlug;
+namespace diplung\MixPlug;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -14,8 +14,6 @@ class MixPLugServiceProvider extends ServiceProvider
     public function boot()
     {
         //
-        echo 'fsdfs';
-        die;
     }
 
     /**
